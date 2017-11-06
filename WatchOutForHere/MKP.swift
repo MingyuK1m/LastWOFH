@@ -20,7 +20,7 @@ class MKP: UIViewController, MKMapViewDelegate{
         let region = MKCoordinateRegionMake(center, span)
         
         map.setRegion(region, animated: true)
-        //asdasd
+       
         let anno = MKPointAnnotation()
         anno.coordinate = center
         anno.title = tit
