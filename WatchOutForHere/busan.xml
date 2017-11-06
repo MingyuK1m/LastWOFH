@@ -1,0 +1,400 @@
+<root>
+    <searchResult>
+        <frequentzone>
+            <spot>부산 부산북부2</spot>
+            <spotname>부산광역시 북구 만덕동(아침바다 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>129.034718</x_crd>
+            <y_crd>35.210821</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산동래1</spot>
+            <spotname>부산광역시 동래구 수안동(동래교차로 부근)</spotname>
+            <occrrnc_co>9</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>8</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.083544275549</x_crd>
+            <y_crd>35.2021748636799</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산동래2</spot>
+            <spotname>부산광역시 동래구 안락동(전기판넬온수기 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>7</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.103548326595</x_crd>
+            <y_crd>35.1966949050467</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산동래3</spot>
+            <spotname>부산광역시 동래구 온천동(내성교차로 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.077268645333</x_crd>
+            <y_crd>35.2047871711919</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산동래4</spot>
+            <spotname>부산광역시 동래구 온천동(동부터미널교차로 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>2</inj_co>
+            <x_crd>129.079038196357</x_crd>
+            <y_crd>35.2120265679726</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산동래5</spot>
+            <spotname>부산광역시 동래구 명장동(서원태권도학원 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.09906326366</x_crd>
+            <y_crd>35.2018522849559</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산동래6</spot>
+            <spotname>부산광역시 동래구 사직동(국민은행사직동지점 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.060618682407</x_crd>
+            <y_crd>35.1976450918484</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산영도1</spot>
+            <spotname>부산광역시 영도구 남항동1가(남항사거리 부근)</spotname>
+            <occrrnc_co>16</occrrnc_co>
+            <dthinj_co>19</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>7</serinj_co>
+            <ordnr_co>11</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.038921538</x_crd>
+            <y_crd>35.090396285661</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산영도2</spot>
+            <spotname>부산광역시 영도구 청학동(남성방앗간 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.061184089775</x_crd>
+            <y_crd>35.0966133835017</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산영도3</spot>
+            <spotname>부산광역시 영도구 봉래동1가(농협교차로 부근)</spotname>
+            <occrrnc_co>3</occrrnc_co>
+            <dthinj_co>3</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.042882440973</x_crd>
+            <y_crd>35.0893965785901</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산해운대1</spot>
+            <spotname>부산광역시 해운대구 반여동(코끼리양분식 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.13085795733</x_crd>
+            <y_crd>35.196311293832</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산해운대2</spot>
+            <spotname>부산광역시 해운대구 우동(세차뱅크 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.156276582699</x_crd>
+            <y_crd>35.1585533251767</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산해운대3</spot>
+            <spotname>부산광역시 해운대구 재송동(동부지청어귀 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.123865247284</x_crd>
+            <y_crd>35.1838069213532</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산진1</spot>
+            <spotname>부산광역시 부산진구 당감동(백양순환로 부근)</spotname>
+            <occrrnc_co>9</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.04055716738</x_crd>
+            <y_crd>35.1657098899004</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산진2</spot>
+            <spotname>부산광역시 부산진구 부전동(중앙시장 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>129.058073436441</x_crd>
+            <y_crd>35.1452683510544</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산금정1</spot>
+            <spotname>부산광역시 금정구 장전동(제일카인테리어 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.085465612349</x_crd>
+            <y_crd>35.2236626935793</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산금정2</spot>
+            <spotname>부산광역시 금정구 장전동(부산대학앞전철역 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.089294240338</x_crd>
+            <y_crd>35.2297180204712</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산금정3</spot>
+            <spotname>부산광역시 금정구 장전동(장전중앙교회A 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.087222384906</x_crd>
+            <y_crd>35.2341560524607</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산금정4</spot>
+            <spotname>부산광역시 금정구 금사동(은혜약국 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.107355126239</x_crd>
+            <y_crd>35.2142278097665</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산금정5</spot>
+            <spotname>부산광역시 금정구 부곡동(굿모닝치과 부근)</spotname>
+            <occrrnc_co>3</occrrnc_co>
+            <dthinj_co>3</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.09225220048</x_crd>
+            <y_crd>35.2382783198894</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산사하1</spot>
+            <spotname>부산광역시 사하구 괴정동(괴정교차로 부근)</spotname>
+            <occrrnc_co>9</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>8</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.993131542488</x_crd>
+            <y_crd>35.0999345843145</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산연제1</spot>
+            <spotname>부산광역시 연제구 연산동(꼬모미술 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>7</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>5</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>1</inj_co>
+            <x_crd>129.09675650531</x_crd>
+            <y_crd>35.1856872553635</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산연제2</spot>
+            <spotname>부산광역시 수영구 망미동(배산한의원 부근)</spotname>
+            <occrrnc_co>7</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>7</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.100624359028</x_crd>
+            <y_crd>35.1731128113081</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산연제3</spot>
+            <spotname>부산광역시 연제구 연산동(인텔부엌가구 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.107140571381</x_crd>
+            <y_crd>35.1882846835921</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산중부1</spot>
+            <spotname>부산광역시 중구 부평동1가(대청사거리 부근)</spotname>
+            <occrrnc_co>12</occrrnc_co>
+            <dthinj_co>13</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>9</serinj_co>
+            <ordnr_co>4</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.027222058752</x_crd>
+            <y_crd>35.1026687976278</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산서부1</spot>
+            <spotname>부산광역시 서구 아미동2가(토성동역사거리 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>4</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.018893159393</x_crd>
+            <y_crd>35.0997989161879</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산남부1</spot>
+            <spotname>부산광역시 남구 대연동(박영호치과 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.094365347384</x_crd>
+            <y_crd>35.1352842332817</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산남부2</spot>
+            <spotname>부산광역시 수영구 광안동(반석종합페인트 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>1</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.111074186226</x_crd>
+            <y_crd>35.1503751072263</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산남부3</spot>
+            <spotname>부산광역시 남구 대연동(용소 삼거리 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>1</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.100363332603</x_crd>
+            <y_crd>35.1366837870281</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산북부1</spot>
+            <spotname>부산광역시 북구 덕천동(수정마을주공아파트 부근)</spotname>
+            <occrrnc_co>8</occrrnc_co>
+            <dthinj_co>9</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>9</serinj_co>
+            <ordnr_co>0</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.008538578494</x_crd>
+            <y_crd>35.2225892789729</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산연제5</spot>
+            <spotname>부산광역시 연제구 연산동(BBQ치킨 부근)</spotname>
+            <occrrnc_co>4</occrrnc_co>
+            <dthinj_co>4</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.083282817449</x_crd>
+            <y_crd>35.1750730932495</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산사상1</spot>
+            <spotname>부산광역시 사상구 감전동(김교진비뇨기과 부근)</spotname>
+            <occrrnc_co>6</occrrnc_co>
+            <dthinj_co>6</dthinj_co>
+            <death_co>0</death_co>
+            <serinj_co>3</serinj_co>
+            <ordnr_co>3</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>128.983330924184</x_crd>
+            <y_crd>35.1563598517267</y_crd>
+        </frequentzone>
+        <frequentzone>
+            <spot>부산 부산연제4</spot>
+            <spotname>부산광역시 수영구 망미동(부산액자 부근)</spotname>
+            <occrrnc_co>5</occrrnc_co>
+            <dthinj_co>5</dthinj_co>
+            <death_co>1</death_co>
+            <serinj_co>2</serinj_co>
+            <ordnr_co>2</ordnr_co>
+            <inj_co>0</inj_co>
+            <x_crd>129.110463640086</x_crd>
+            <y_crd>35.1744847189955</y_crd>
+        </frequentzone>
+    </searchResult>
+</root>
