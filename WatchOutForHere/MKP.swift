@@ -27,11 +27,6 @@ class MKP: UIViewController, MKMapViewDelegate{
         
         map.addAnnotation(anno)
         
-        print("lat\(lat)")
-        print("long\(long)")
-        print("center\(center)")
-        
-        
         
         //델리게이트 연결
         map.delegate = self

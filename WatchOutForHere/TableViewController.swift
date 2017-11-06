@@ -24,12 +24,9 @@ class TableViewController: UITableViewController, XMLParserDelegate {
             
             if let parser = XMLParser(contentsOf: path) {
                 parser.delegate = self
-                //print(path)
-                
+
                 if parser.parse() {
                     print("parsing success!")
-                    //print("strXMLData = \(strXMLData)")
-                    //poopoo.text = strXMLData
                     
                 } else {
                     print("parsing failed!!")
@@ -41,8 +38,6 @@ class TableViewController: UITableViewController, XMLParserDelegate {
     }
     
     func parser(_ parser: XMLParser, didStartElement elementName: String, namespaceURI: String?, qualifiedName qName: String?, attributes attributeDict: [String : String]) {
-        
-        print("********elementName = \(elementName)")
         
         currentElement = elementName
         
@@ -57,11 +52,9 @@ class TableViewController: UITableViewController, XMLParserDelegate {
     func parser(_ parser: XMLParser, foundCharacters string: String) {
         
         let data = string.trimmingCharacters(in: NSCharacterSet.whitespacesAndNewlines)
-        print("data =  \(data)")
         if !data.isEmpty {
             item[currentElement] = data
             strXMLData = strXMLData + "\n\n" + item[currentElement]!
-            print(strXMLData)
             
         }
         

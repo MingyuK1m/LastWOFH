@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		14A4F3B61FB034A2009F366F /* busan.xml in Resources */ = {isa = PBXBuildFile; fileRef = 14A4F3B51FB034A2009F366F /* busan.xml */; };
 		14A4F3B81FB03833009F366F /* MKP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A4F3B71FB03833009F366F /* MKP.swift */; };
+		14A4F3BA1FB03B15009F366F /* AMKP.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A4F3B91FB03B15009F366F /* AMKP.swift */; };
 		14A914631FB02EEC00BAA8B3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A914621FB02EEC00BAA8B3 /* AppDelegate.swift */; };
 		14A914651FB02EEC00BAA8B3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 14A914641FB02EEC00BAA8B3 /* ViewController.swift */; };
 		14A914681FB02EEC00BAA8B3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 14A914661FB02EEC00BAA8B3 /* Main.storyboard */; };
@@ -42,6 +43,7 @@
 /* Begin PBXFileReference section */
 		14A4F3B51FB034A2009F366F /* busan.xml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = busan.xml; sourceTree = "<group>"; };
 		14A4F3B71FB03833009F366F /* MKP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MKP.swift; sourceTree = "<group>"; };
+		14A4F3B91FB03B15009F366F /* AMKP.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AMKP.swift; sourceTree = "<group>"; };
 		14A9145F1FB02EEC00BAA8B3 /* WatchOutForHere.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchOutForHere.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		14A914621FB02EEC00BAA8B3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		14A914641FB02EEC00BAA8B3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -122,6 +124,7 @@
 				14A9146E1FB02EEC00BAA8B3 /* Info.plist */,
 				14A914951FB0311D00BAA8B3 /* TableViewController.swift */,
 				14A4F3B71FB03833009F366F /* MKP.swift */,
+				14A4F3B91FB03B15009F366F /* AMKP.swift */,
 			);
 			path = WatchOutForHere;
 			sourceTree = "<group>";
@@ -290,6 +293,7 @@
 			files = (
 				14A4F3B81FB03833009F366F /* MKP.swift in Sources */,
 				14A914651FB02EEC00BAA8B3 /* ViewController.swift in Sources */,
+				14A4F3BA1FB03B15009F366F /* AMKP.swift in Sources */,
 				14A9149A1FB0320200BAA8B3 /* CIA.swift in Sources */,
 				14A914961FB0311D00BAA8B3 /* TableViewController.swift in Sources */,
 				14A914631FB02EEC00BAA8B3 /* AppDelegate.swift in Sources */,

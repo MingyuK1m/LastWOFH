@@ -120,7 +120,18 @@
                             <outlet property="delegate" destination="EqI-N7-UIc" id="O6s-Li-w9t"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="Root View Controller" id="To1-oC-K8h"/>
+                    <navigationItem key="navigationItem" title="Root View Controller" id="To1-oC-K8h">
+                        <barButtonItem key="leftBarButtonItem" title="뒤로" id="8ab-lV-aL6">
+                            <connections>
+                                <segue destination="wrn-Ih-Jgh" kind="show" id="16l-5Q-mDz"/>
+                            </connections>
+                        </barButtonItem>
+                        <barButtonItem key="rightBarButtonItem" title="all" id="USa-3C-tnL">
+                            <connections>
+                                <segue destination="52J-oK-CDo" kind="show" id="cg2-jn-B4z"/>
+                            </connections>
+                        </barButtonItem>
+                    </navigationItem>
                     <connections>
                         <outlet property="mytable" destination="lyR-yr-21v" id="aYH-jp-urC"/>
                     </connections>
@@ -128,6 +139,36 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="1qv-L7-OJ8" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="904.79999999999995" y="70.614692653673174"/>
+        </scene>
+        <!--AMKP-->
+        <scene sceneID="vF6-RZ-3Ah">
+            <objects>
+                <viewController id="52J-oK-CDo" customClass="AMKP" customModule="WatchOutForHere" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="tbu-1t-L1H"/>
+                        <viewControllerLayoutGuide type="bottom" id="d8l-CI-qiX"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="2hd-zz-BqV">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <mapView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" mapType="standard" translatesAutoresizingMaskIntoConstraints="NO" id="4Kf-Tu-TeD">
+                                <rect key="frame" x="0.0" y="64" width="375" height="603"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <connections>
+                                    <outlet property="delegate" destination="52J-oK-CDo" id="a85-nR-a2a"/>
+                                </connections>
+                            </mapView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                    <connections>
+                        <outlet property="map" destination="4Kf-Tu-TeD" id="di7-oj-tit"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="e78-Q0-igh" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1740" y="-426.83658170914543"/>
         </scene>
         <!--MKP-->
         <scene sceneID="9ze-k8-U1m">
@@ -162,7 +203,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="fMx-hp-aXi" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1674.4000000000001" y="71.514242878560722"/>
+            <point key="canvasLocation" x="1740" y="297"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="ozv-HH-fnG">
